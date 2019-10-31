@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Poedit 2.2.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: app/scripts/services/drivers.js:170 app/scripts/services/drivers.js:346
@@ -102,7 +102,7 @@ msgstr "Autore"
 
 #: app/views/version.html:33
 msgid "Automatic check for new versions"
-msgstr ""
+msgstr "Controllo automatico per nuove versioni"
 
 #: app/views/menu.html:367
 msgid "Basic"
@@ -236,7 +236,7 @@ msgstr "Segnale di clock non permesso nei segnali di bus"
 
 #: app/views/menu.html:110
 msgid "Clone"
-msgstr ""
+msgstr "Clona"
 
 #: app/scripts/controllers/menu.js:363 app/views/version.html:43
 msgid "Close"
@@ -394,7 +394,7 @@ msgstr "Documentazione"
 
 #: app/views/version.html:41
 msgid "Don't display"
-msgstr ""
+msgstr "Non mostrare"
 
 #: app/views/menu.html:277
 msgid "Drivers"
@@ -500,7 +500,7 @@ msgstr "Esporta"
 
 #: app/scripts/controllers/menu.js:235
 msgid "Export submodule"
-msgstr ""
+msgstr "Esporta sottomodulo"
 
 #: app/views/menu.html:135
 msgid "External collections"
@@ -571,7 +571,7 @@ msgstr "Galiziano"
 
 #: app/views/version.html:24
 msgid "Generic blocks"
-msgstr ""
+msgstr "Blocchi generici"
 
 #: app/views/languages.html:28
 msgid "German"
@@ -720,7 +720,7 @@ msgstr "Italiano"
 
 #: app/views/version.html:29
 msgid "Labels"
-msgstr ""
+msgstr "Etichette"
 
 #: app/views/menu.html:124
 msgid "Language"
@@ -909,7 +909,7 @@ msgstr "Salva come"
 
 #: app/scripts/controllers/menu.js:197
 msgid "Save submodule"
-msgstr ""
+msgstr "Salva sotto modulo"
 
 #: app/views/menu.html:184
 msgid "Select"
@@ -1028,7 +1028,7 @@ msgstr ""
 
 #: app/scripts/services/tools.js:1191
 msgid "There is a new stable version available"
-msgstr ""
+msgstr "C'è una nuova versione stabile disponibile"
 
 #: app/scripts/services/project.js:449
 msgid ""
@@ -1066,6 +1066,8 @@ msgstr ""
 #: app/scripts/controllers/design.js:32
 msgid "To navigate through design, you need to close \"edit mode\"."
 msgstr ""
+"Per navigare attraverso progetti, devi prima chiudere la \"modalità modifica"
+"\"."
 
 #: app/scripts/controllers/menu.js:198
 msgid ""
@@ -1153,7 +1155,7 @@ msgstr "Versione"
 
 #: app/views/menu.html:338
 msgid "Version notes"
-msgstr ""
+msgstr "Note sulla versione"
 
 #: app/views/menu.html:152
 msgid "View"
